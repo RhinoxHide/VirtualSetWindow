@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.5",
+	"FriendlyName": "Virtual Set Window",
+	"Description": "",
+	"Category": "Virtual Production",
+	"CreatedBy": "Benedikt Walter & Fabian Kirchen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true
+}
